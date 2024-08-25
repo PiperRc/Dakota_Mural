@@ -1,0 +1,47 @@
+<navbar>
+<navbar>
+
+<main>
+    <section class="hero">
+        <p>
+        HI....
+        .....
+
+        Let's connect. <a href="/contact"> Say Hello!</a>
+    </p>
+    </section>
+
+
+    <section class="latest">
+        <div>
+            <img src="" alt="">
+            <h1>Title</h1>
+            <p>sdecribe art</p>
+            <a href="gallert">See moe</a>
+        </div>
+
+
+        <div>
+            <img src="" alt="">
+            <h1>Title</h1>
+            <p>sdecribe art</p>
+            <a href="gallert">See moe</a>
+
+        </div>
+
+
+        <div>
+            <img src="" alt="">
+            <h1>Title</h1>
+            <p>sdecribe art</p>
+            <a href="gallert">See moe</a>
+        </div>
+
+    </section>
+
+    <footer>
+        
+    </footer>
+
+</main>
+
