@@ -30,6 +30,42 @@ body {
   } */
 
 
+  main{
+    width:95%;
+     border:1px solid red;
+     margin: 0 auto;
+  }
+
+  /* index.html */
+
+  .hero h1{
+    font-size: 3.2rem;
+    line-height: 1.5;
+    font-weight: normal;
+
+  }
+
+  .hero p{
+    font-size: 1.6rem;
+  }
+
+
+  .hero p a{
+    color:black;
+    font-weight: light;
+  }
+
+
+  .latest h2{
+    font-size: 2.1rem;
+   
+    
+  }
+
+  .latest p{
+    font-size: 1.5rem;
+    text-align: right;
+  }
   @media screen and (min-width: 800px){
     /* navbar */
 
