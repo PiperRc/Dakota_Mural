@@ -59,7 +59,7 @@ button.btn-close {
 
 main {
   width: 92%;
-  /* border: 1px solid red; */
+  border: 1px solid red;
   margin: 0 auto;
   background-color: #fdfdfd;
 }
@@ -154,6 +154,11 @@ footer p {
 
 .author {
   text-align: center;
+}
+
+/* about.html */
+.about{
+ 
 }
 
 @media screen and (min-width: 800px) {
