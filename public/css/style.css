@@ -29,45 +29,102 @@ body {
     text-align: center;
   } */
 
+main {
+  width: 92%;
+  border: 1px solid red;
+  margin: 0 auto;
+}
 
-  main{
-    width:95%;
-     border:1px solid red;
-     margin: 0 auto;
-  }
+/* index.html */
 
-  /* index.html */
+.hero h1 {
+  font-size: 3.2rem;
+  line-height: 1.2;
+  font-weight: normal;
+}
 
-  .hero h1{
-    font-size: 3.2rem;
-    line-height: 1.5;
-    font-weight: normal;
+.hero p {
+  font-size: 1.6rem;
+}
 
-  }
+.hero p a {
+  color: black;
+  font-weight: light;
+}
 
-  .hero p{
-    font-size: 1.6rem;
-  }
+.latest {
+  margin-top: 8rem;
+}
+
+.latest_artwork {
+  margin-top: 6rem;
+}
+.latest h2 {
+  font-size: 2.1rem;
+}
+
+.latest p {
+  font-size: 1.5rem;
+  text-align: right;
+}
+
+.mural {
+  width: 92%;
+  margin: 0 auto;
+}
+.mural img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
 
 
-  .hero p a{
-    color:black;
-    font-weight: light;
-  }
+.latest_artwork div{
+  margin-top:12rem;
+}
+.latest_artwork div h2{
+  margin-top:2rem;
+}
+
+.latest_artwork div p{
+  line-height: 1.9;
+}
 
 
-  .latest h2{
-    font-size: 2.1rem;
-   
-    
-  }
 
-  .latest p{
-    font-size: 1.5rem;
-    text-align: right;
-  }
-  @media screen and (min-width: 800px){
-    /* navbar */
+footer {
+  /* width: 90%; */
+  border-top: 3px solid #e8e8e8;
+  /* margin: 0 auto; */
+  margin-top: 3rem;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+
+.social-media a:nth-child(1) {
+  margin-right: 1.5rem;
+}
+
+footer p {
+  font-size: .9rem;
+  font-weight: bold;
+}
+
+.copyright {
+  padding-top: 3rem;
+  text-align: center;
+}
+
+.author {
+  text-align: center;
+}
+
+@media screen and (min-width: 800px) {
+  /* navbar */
 
   .nav-link::after {
     content: "";
@@ -80,7 +137,6 @@ body {
     transform-origin: left;
     transition: ease-in-out 500ms;
   }
- 
 
   .nav-link:hover::after {
     transform: scale(1);
@@ -91,8 +147,8 @@ body {
     display: flex;
     justify-content: space-around;
   }
-  .nav-item{
-    padding-right:2rem;
+  .nav-item {
+    padding-right: 2rem;
   }
 
   .nav-active {
@@ -114,4 +170,4 @@ body {
   .social-nav a:hover{
     transform: translateY(-.2rem);
   } */
-  }
+}
