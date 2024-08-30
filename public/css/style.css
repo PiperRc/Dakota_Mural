@@ -157,8 +157,45 @@ footer p {
 }
 
 /* about.html */
-.about{
+.about h2{
+  font-size: 2.5rem;
+  line-height: 1.5;
  
+}
+
+.bio{
+  font-size: 2rem;
+}
+
+.bio span{
+  display: block;
+  padding-top:3rem;
+}
+
+
+.about_contact{
+  display: block;
+  text-align: center;
+  margin-top:3rem;
+}
+.about_contact a{
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.5rem;
+  background-color: #946666;
+  padding: 2rem;
+  border-radius: 2rem;
+  letter-spacing: .1rem;
+}
+
+.profile_picture{
+  margin-top:3rem;
+}
+
+.profile_picture img{
+  width: 100%;
+  height: auto;
 }
 
 @media screen and (min-width: 800px) {
