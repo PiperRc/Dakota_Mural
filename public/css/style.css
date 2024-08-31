@@ -107,7 +107,7 @@ footer {
 }
 
 .mural {
-  width: 92%;
+  width: 60%;
   margin: 0 auto;
 }
 .mural img {
@@ -368,4 +368,40 @@ footer p {
   .social-nav a:hover{
     transform: translateY(-.2rem);
   } */
+
+/* index */
+
+.hero h1{
+  font-size: 4.5rem;
+  line-height: 1.3;
+}
+
+.hero p{
+  font-size:2rem;
+  margin-top:3rem;
+}
+
+.latest h2{
+  font-size:2.5rem;
+}
+
+.latest_description{
+  display: flex;
+  justify-content: space-between;
+  align-items: items;
+}
+
+.latest_description h2,.latest_description p{
+  flex:1;
+  font-size: 2rem;;
+}
+
+.latest_description h2{
+  font-size: 2.5rem;
+}
+
+.latest_artwork div{
+  margin-top:6rem;
+}
+
 }
