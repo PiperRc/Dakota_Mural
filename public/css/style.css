@@ -404,4 +404,25 @@ footer p {
   margin-top:6rem;
 }
 
+/* gallery.astro */
+.gallery h1{
+  font-size: 5.5rem;
+  margin-top:6rem;
+}
+
+
+.gallery section{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap:1rem;
+
+}
+
+.gallery section img{
+  width:100%;
+}
+
+
+
 }
