@@ -423,5 +423,45 @@ nav {
 }
 
 
+/* contact */
+
+/* contact */
+
+.contact h3 {
+  text-align: center;
+}
+
+.contact form {
+  border: 2px solid #509595;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-radius: 0.5rem;
+
+  /* padding: 10px; */
+  background-color: white; /* Set background color to white */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); /* Evenly distributed shadow all around */
+}
+
+.contact div {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contact input,
+.contact .message {
+  font-size: 1.8rem;
+}
+
+.contact button {
+  display: block;
+}
+
+.contact i{
+  
+    --fa-animation-iteration-count: 2;
+
+}
+/* footer */
+
 
 }
