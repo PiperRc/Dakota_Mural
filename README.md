@@ -1,10 +1,9 @@
 # Checklist
 
 [x] submit -netlify
-[x] gallery-
-[ ] see if dakotamural availble
+[ ] google fonts
+[ ] navbar on phone
 
-[ ]navbar issues on phone
 
 
 
