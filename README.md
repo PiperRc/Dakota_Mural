@@ -1,8 +1,8 @@
 # Checklist
 
-[x] submit -netlify
-[ ] google fonts
-[ ] navbar on phone
+- [x] submit -netlify
+- [ ] google fonts
+- [ ] navbar on phone
 
 
 
