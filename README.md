@@ -1,8 +1,9 @@
 # Checklist
 
 - [x] submit -netlify
-- [ ] google fonts
-- [ ] navbar on phone
+- [x] google fonts
+- [ ] navbar
+- [ ] scroll effects
 
 
 
