@@ -431,6 +431,11 @@ nav {
   text-align: center;
 }
 
+form{
+  width:70%;
+  margin: 0 auto;
+}
+
 .contact form {
   border: 2px solid #509595;
   padding-top: 2rem;
