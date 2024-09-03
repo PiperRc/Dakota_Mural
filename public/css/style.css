@@ -69,6 +69,14 @@ button.btn-close {
 }
 
 
+.fa-facebook-f,.fa-instagram{
+  font-size: 3rem;
+  
+}
+
+.fa-instagram,.fa-facebook-f{
+  padding-top:3rem;
+}
 
 
 main,
