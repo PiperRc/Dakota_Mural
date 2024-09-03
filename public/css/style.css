@@ -23,6 +23,16 @@ main{
 
 }
 
+/* scroll */
+/* .scroll {
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+}
+
+.scroll.scroll-effect {
+  opacity: 1;
+} */
+
 /* navbar */
 
 nav{
