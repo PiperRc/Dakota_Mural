@@ -18,6 +18,9 @@ body {
 
 main {
   font-family: "IBM Plex Serif", serif;
+  width: 92%;
+  margin: 0 auto;
+  background-color: #fdfdfd;
 }
 
 /* scroll */
@@ -30,13 +33,15 @@ main {
   opacity: 1;
 } */
 
+
+
 /* navbar */
 
 nav {
   font-family: "IBM Plex Sans", sans-serif;
 }
+
 .navbar-brand {
-  /* font-family: "Playfair Display", serif; */
   font-size: 3rem;
   font-weight: 700;
 }
@@ -45,11 +50,10 @@ nav {
   font-size: 2.5rem;
   text-align: center;
   font-weight: 500;
-  /* font-family: "Roboto", sans-serif; */
 }
 
 .navbar.scrolled {
-  background-color: #fffafa; /* Change to your desired color */
+  background-color: #fffafa;
 }
 
 .offcanvas-title {
@@ -62,26 +66,16 @@ button.navbar-toggler {
 
 button.btn-close {
   font-size: 2rem;
-  /* color: red; */
 }
 
-/* .nav-link {
-  color:black;
-  font-family: "Open Sans", sans-serif, "sans-serif";
-  font-weight: light;
-} */
 
-main {
-  width: 92%;
 
-  margin: 0 auto;
-  background-color: #fdfdfd;
-}
 
 main,
 footer {
   background-color: #fdfdfd;
 }
+
 /* index.html */
 
 .hero h1 {
@@ -140,9 +134,7 @@ footer {
 /* footer */
 
 footer {
-  /* width: 90%; */
   border-top: 3px solid #e8e8e8;
-  /* margin: 0 auto; */
   margin-top: 3rem;
 }
 
@@ -443,8 +435,6 @@ footer p {
 
   /* contact */
 
-  /* contact */
-
   .contact h3 {
     text-align: center;
   }
@@ -482,5 +472,5 @@ footer p {
   .contact i {
     --fa-animation-iteration-count: 2;
   }
-  /* footer */
+
 }
