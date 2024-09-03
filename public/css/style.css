@@ -71,12 +71,11 @@ button.btn-close {
 
 .fa-facebook-f,.fa-instagram{
   font-size: 3rem;
+  padding-top:3rem;
   
 }
 
-.fa-instagram,.fa-facebook-f{
-  padding-top:3rem;
-}
+
 
 
 main,
@@ -341,10 +340,12 @@ footer p {
 
   nav {
     font-size: 2.1rem;
+   
   }
 
   .navbar-brand {
     font-size: 2.5rem;
+    padding-left:3rem;
   }
 
   .nav-link {
@@ -381,6 +382,12 @@ footer p {
   .navbar-brand:hover::after {
     transform: scale(1);
   }
+
+  .fa-instagram,.fa-facebook-f{
+    padding-top:0;
+    font-size: 2.2rem;
+  }
+  
 
   /* index */
 
